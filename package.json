@@ -1,5 +1,4 @@
 {
-  "homepage": "https://prasannarajezzzy.github.io/portfolio-",
   "name": "prasanna.tech",
   "version": "0.1.0",
   "private": true,
@@ -19,7 +18,7 @@
     "react-twitter-embed": "3.0.3"
   },
   "scripts": {
-    "predeploy": "npm run build",
+    "predeploy": "npm run build && echo 'prasanna.tech' > ./build/CNAME",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "deploy": "gh-pages -d build",
