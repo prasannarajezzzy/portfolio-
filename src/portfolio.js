@@ -40,11 +40,23 @@ const skillsSection = {
 
   softwareSkills: [
     {
+      skillName: "Machine Learning"
+    },
+    {
+      skillName: "Natural Language Processing"
+    },
+    {
+      skillName: "tensorflow"
+    },
+    {
+      skillName: "scikit"
+    },
+    {
       skillName: "python",
       fontAwesomeClassname: "fab fa-python"
     },
     {
-      skillName: "scikit",
+      skillName: "cpp",
     },
     {
       skillName: "django"
@@ -54,6 +66,9 @@ const skillsSection = {
     },
     {
       skillName: "vue"
+    },
+    {
+      skillName: "Flask"
     },
     {
       skillName: "nodejs",
@@ -158,21 +173,17 @@ const bigProjects = {
   subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
   projects: [
     {
-      image: require("./assets/images/arcana-old.png"),
-      link: "https://github.com/arcana-network/smart-contract"
+      image: require("./assets/images/isro.svg"),
+      link: "https://github.com/prasannarajezzzy/ISRO-NowCasting-using-ConvLSTM"
     },
     {
-      image: require("./assets/images/eraswaplife.png"),
-      link: "https://eraswap.life/"
+      image: require("./assets/images/Codex.png"),
+      link: "https://www.instagram.com/codex_it_solutions/?igshid=MzRlODBiNWFlZA%3D%3D"
     },
     {
-      image: require("./assets/images/dayswappers.png"),
-      link: "https://dayswappers.com/"
+      image: require("./assets/images/dog-walker.png"),
+      link: "https://github.com/prasannarajezzzy/Dog-walker-Searcher"
     },
-    {
-      image: require("./assets/images/khelomore.png"),
-      link: "https://pnp.khelomore.com/"
-    }
   ]
 };
 
@@ -263,26 +274,16 @@ const blogSection = {
 
   blogs: [
     {
-      url: "https://www.arcana.network/blog/web3-entry-barriers-with-meta-transactions",
-      title: "Breaking Web3 Entry Barriers with Meta Transactions",
-      description: "A Meta-Transaction refers to a method where a user signs and submits a transaction without incurring any gas fees."
+      url: "",
+      title: "Basics of NLP",
+      description: "A small introduction to NLP and its challenges"
     },
     {
-      url: "https://medium.com/@sauravnk30/anonymous-web-authentication-4d41b2c26bee",
-      title: "Anonymous web authentication",
-      description: "A modern approach to authenticate users without email and password. This blog discuss the problem " +
-        "with current implementation and it's solution"
+      url: "",
+      title: "Transformer and LLM",
+      description: "Basic Intoduciton and code and paper reiview to Transformer"
     },
-    {
-      url: "https://medium.com/coinmonks/compiling-deploying-and-interacting-with-smart-contract-using-javascript-641cf0342824",
-      title: "Compiling, Deploying and Interacting with Smart Contract using JavaScript",
-      description: "Instead of using truffle you can also compile, deploy and interact with smart contracts using ethersjs with ease"
-    },
-    {
-      url: "https://dev.to/sauravkanchan/svelte-bootstrap-with-material-design-1j99",
-      title: "Svelte Bootstrap with Material Design",
-      description: "This project is based on the latest Bootstrap 4 and Svelte 3. Absolutely no jQuery. It is inspired by mdbreact. This blog post will be about how to install it and use it."
-    }
+
   ]
 };
 
@@ -294,29 +295,14 @@ const talkSection = {
 
   talks: [
     {
-      title: "How to begin your web3 developer journey?",
-      subtitle: "TPH's builderseries: part 8",
-      event_url: "https://twitter.com/0xTPH/status/1560246399102754816"
+      title: "Anybody can code with Python..",
+      subtitle: "Live Python Coding with Experts",
+      event_url: "https://www.instagram.com/p/CSjYCi-IVVd/?igshid=MzRlODBiNWFlZA%3D%3D"
     },
     {
-      title: "Shamir's Secete Sharing",
-      subtitle: "Cryptographic algorithm to share secrete",
-      event_url: "https://twitter.com/ArcanaNetwork/status/1464150537901801474"
-    }, 
-    {
-      title: "Breaking into Blockchain",
-      subtitle: "Practical workshop on the fundamentals of Blockchain technology.",
-      event_url: "https://twitter.com/0xTPH/status/1560246399102754816"
-    },
-    {
-      title: "Faculty development program in UMIT",
-      subtitle: "Training program focused on the Blockchain technology",
-      event_url: "https://www.picuki.com/media/2068816140826916633"
-    },
-    {
-      title: "Automate the boring stuffs with python",
-      subtitle: "Workshop conducted by ISTE RAIT",
-      event_url: "https://www.facebook.com/isteraitofficial/photos/a.2047088395524310/2510579635841848/?type=3"
+      title: "GET INTERVIEW READY 1.0!",
+      subtitle: "Bringing you everything related to Coding, Interviews, Internships, Live coding Webinars, Podcasts ",
+      event_url: "https://www.instagram.com/p/CSZTVWwDGNu/?igshid=MzRlODBiNWFlZA%3D%3D"
     }
   ]
 };
