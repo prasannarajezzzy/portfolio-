@@ -306,7 +306,7 @@ const talkSection = {
     {
       title: "GET INTERVIEW READY 1.0!",
       subtitle:
-        "Bringing you everything related to Coding, Interviews, Internships, Live coding Webinars, Podcasts ",
+        "Help you with Coding, Interviews, Internships, Live coding Webinars, Podcasts ",
       event_url:
         "https://www.instagram.com/p/CSZTVWwDGNu/?igshid=MzRlODBiNWFlZA%3D%3D",
     },
