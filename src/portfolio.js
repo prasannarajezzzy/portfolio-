@@ -22,7 +22,7 @@ const socialMediaLinks = {
   linkedin: "https://www.linkedin.com/in/prasanna-rajendra/",
   gmail: "prasannavadk@gmail.com",
   // facebook: "https://www.facebook.com/prasanna.kanchan/",
-  medium: "https://medium.com/@sauravnk30",
+  medium: "https://medium.com/@prvaddkkepurakkal",
 };
 
 // Your Skills Section
